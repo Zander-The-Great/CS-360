@@ -1,4 +1,4 @@
-# CS360
+# CS-360
 SNHU Mobile Architect &amp; Programming
 
 
