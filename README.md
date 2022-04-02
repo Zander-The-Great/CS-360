@@ -1,5 +1,5 @@
 # CS360
-Mobile Architect &amp; Programming
+SNHU Mobile Architect &amp; Programming
 
 
 
